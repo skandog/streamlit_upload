@@ -9,3 +9,4 @@ matplotlib==3.5.0
 gmplot==1.4.1
 altair==4.2.0
 seaborn==0.11.2
+openpyxl==3.0.9
